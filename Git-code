@@ -1,0 +1,5 @@
+ git add .
+ git commit -m "menambahkan folder wallpaper-win11"
+ git push
+ git config --global user.email "rosymuhamad@protonmail.com"
+ git config --global user.name "MuhamadMtrosymuhamad"
